@@ -26,7 +26,7 @@ import json
 import datetime
 
 #settings
-database_url = 'http://lyle.smu.edu/~lmbrown/iot_data/index.php'
+database_url = 'http://lyle.smu.edu/~lmbrown/iot_data/index.php?endpoint=inet_scan_csv'
 json_fname = "data/scan_HUD_data.json"
 
 
