@@ -1,1 +1,1 @@
-{"os_found": 14, "vendor_found": 0, "num_complete": 0, "open_telnet": 0, "num_hosts_found": 947, "last_scan_time": "2017-02-09 17:37:18", "open_ssh": 0, "mac_found": 0, "num_scanned_ips": 8466}
+{"mac_found": 0, "last_scan_time": "2017-02-09 18:07:46", "os_found": 14, "open_ssh": 0, "num_scanned_ips": 8978, "num_complete": 0, "vendor_found": 0, "open_telnet": 0, "num_hosts_found": 947}
